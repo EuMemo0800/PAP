@@ -1,2 +1,2 @@
-Just trying do a minecraft server with my own plugins
+just trying to make a minecraft server
 im newbie 
